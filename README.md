@@ -22,21 +22,17 @@
   </a>
 </p>
 
-
-
-
-
 <h3 align="left">Applications & Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,idea&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,idea,cloudflare,vercel&perline=6"/>
   </a>
 </p>
 
 <h3 align="left">Other Software</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,figma&perline=6" />
+    <img src="https://skillicons.dev/icons?i=ableton,figma&perline=6"/>
   </a>
 </p>
 
