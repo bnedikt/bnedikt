@@ -36,7 +36,7 @@
 <h3 align="left">Other Software</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma&perline=6" />
+    <img src="https://skillicons.dev/icons?i=ableton,figma&perline=6" />
   </a>
 </p>
 
