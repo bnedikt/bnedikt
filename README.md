@@ -1,15 +1,43 @@
-## Hi there 👋
-<!--
-**bnedikt/bnedikt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there 👋</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">I'm Benedikt, a developer from germany</h3>
+
+---
+
+
+## 📍 About me:
+
+- I am currently working on various private projects. :p 
+
+---
+
+## 💻 Tech Stack
+
+<h3 align="left">Programming Languages</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java" />
+  </a>
+</p>
+
+
+
+
+
+<h3 align="left">Applications & Tools</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,idea&perline=6" />
+  </a>
+</p>
+
+<h3 align="left">Other Software</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma&perline=6" />
+  </a>
+</p>
+
+---
