@@ -25,7 +25,7 @@
 <h3 align="left">Applications & Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,idea,cloudflare,vercel&perline=6"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,visualstudiocode,intellijidea"/>
   </a>
 </p>
 
