@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,java" />
   </a>
 </p>
 
